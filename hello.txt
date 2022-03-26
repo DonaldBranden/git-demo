@@ -19,3 +19,6 @@ hello sjava! hello git!
 hot-fix
 
 hello sjava! hello git!
+
+I'm hot-fix.
+
